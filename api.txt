@@ -1,0 +1,21 @@
+fresh_develop
+
+http://fresh.admlr.lipetsk.ru
+
+Backup OD
+Права:
+Яндекс.Диск REST API
+
+Запись в любом месте на Диске
+
+Чтение всего Диска
+
+Доступ к информации о Диске
+
+Доступ к папке приложения на Диске
+
+ID: 6017007094734f3aa59f0c255ad8e8ba
+Пароль: bb9bdefda3aa4d9e8924589e12445662
+Callback URL: https://fresh.admlr.lipetsk.ru/a/oauth2_client
+Время жизни токена: Не менее, чем 1 год
+Дата создания: 04.02.2021
